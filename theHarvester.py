@@ -1,4 +1,4 @@
-#!/usr/bin/python3.7
+#!/usr/bin/python3
 
 # Note: This script runs theHarvester
 from platform import python_version
